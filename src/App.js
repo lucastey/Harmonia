@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+import pngtree from './pngtree.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={pngtree} className="App-logo" alt="logo" />
         <p className= "App-title">
           Harmonia
         </p>

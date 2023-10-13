@@ -16,10 +16,11 @@
 .App-title {
   font-size: 100px;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-bottom: 20%;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #6fa65c;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
